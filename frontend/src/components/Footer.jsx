@@ -20,7 +20,7 @@ const Footer = () => {
           <h4>Support</h4>
           <ul>
             <li>Noida, Uttar Pradesh, India</li>
-            <li>nichenest@gmail.com</li>
+            <li>workwiz@gmail.com</li>
             <li>+91 829216****</li>
           </ul>
         </div>
@@ -80,7 +80,7 @@ const Footer = () => {
         </div>
       </footer>
       <div className="copyright">
-        &copy; CopyRight 2024. All Rights Reserved By Ayush.
+        &copy; CopyRight 2024. All Rights Reserved By WorkWiz.
       </div>
     </>
   );
